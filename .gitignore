@@ -1,0 +1,9 @@
+build/CMakeCache.txt
+build/CMakeFiles/
+build/Makefile
+build/citar-evaluate
+build/citar-tag
+build/citar-train
+build/cmake_install.cmake
+build/include/
+build/libcitar.a
