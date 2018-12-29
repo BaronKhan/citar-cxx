@@ -66,7 +66,7 @@ set(LIBCITAR_SOURCES
         src/tagger/wordhandler/SuffixWordHandler.cpp
         src/tagger/wordhandler/WordSuffixTree.cpp)
 
-add_library(citar SHARED ${LIBCITAR_HEADERS} ${LIBCITAR_SOURCES})
+add_library(citar STATIC ${LIBCITAR_HEADERS} ${LIBCITAR_SOURCES})
 
 install(TARGETS citar
         LIBRARY DESTINATION lib
