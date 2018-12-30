@@ -7,3 +7,16 @@ build/citar-train
 build/cmake_install.cmake
 build/include/
 build/libcitar.a
+
+emscripten_hacks/CMakeCache.txt
+emscripten_hacks/CMakeFiles/
+emscripten_hacks/Makefile
+emscripten_hacks/citar-evaluate.js
+emscripten_hacks/citar-evaluate.wasm
+emscripten_hacks/citar-tag.js
+emscripten_hacks/citar-tag.wasm
+emscripten_hacks/citar-train.js
+emscripten_hacks/citar-train.wasm
+emscripten_hacks/cmake_install.cmake
+emscripten_hacks/include/
+emscripten_hacks/libcitar.a
